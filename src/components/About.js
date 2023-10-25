@@ -6,7 +6,7 @@ function About() {
     <div id="About">
       <h2>About Me</h2>
       <p></p>
-      <img src="demo.png" alt="I made this"/>
+      <img src="https://i.imgur.com/mV8PQxj.gif" alt="I made this"/>
     </div>
   )
 }
